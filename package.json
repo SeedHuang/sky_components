@@ -1,6 +1,6 @@
 {
   "name": "sky_components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test react component",
   "main": "index.js",
   "scripts": {
@@ -39,5 +39,5 @@
     "sass-loader": "^7.1.0",
     "webpack-dev-server": "^3.1.14"
   },
-  "module": "./src/index.jsx"
+  "module": "src/index.jsx"
 }
