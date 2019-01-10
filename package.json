@@ -1,6 +1,6 @@
 {
   "name": "sky_components",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "test react component",
   "main": "index.js",
   "scripts": {
